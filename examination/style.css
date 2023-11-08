@@ -1,0 +1,16 @@
+.jumia{ flex: start;}
+.container{ display: flex;
+    align-items: center;
+    flex-direction: row;
+}
+.buutton 1{ color:#f56942}
+*{ background-color: darkgrey;}
+.icons{ background-color: white; 
+color: black; border: 70px solid grey;
+display: flex;
+flex-direction: column;
+}
+li[ orders]{ background-color: darkslategray;}
+.button{color: white;
+background-color: brown;
+}
